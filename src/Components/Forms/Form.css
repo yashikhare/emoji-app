@@ -1,0 +1,19 @@
+#form {
+  padding-top: 2%;
+}
+#form input {
+  font-size: 20px;
+  border: 1px solid black;
+  padding: 5px;
+  width: 25%;
+  height: 40px;
+  text-align: center;
+}
+#form button {
+  margin: 15px;
+  font-size: 20px;
+  border: 1px solid black;
+  padding: 5px;
+  height: 50px;
+  width: 10%;
+}
